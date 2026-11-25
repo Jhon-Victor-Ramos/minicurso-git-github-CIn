@@ -1,7 +1,6 @@
 usuario = input("Digite o seu nome: ")
 idade = int(input("Digite sua idade: "))
-
-
-print(f"Oi, {usuario}. Você tem {idade} mesmo?")
+bairro = input("Digite seu bairro: ")
+print(f"Oi, {usuario}. Você tem {idade} mesmo? \n Agora eu sei onde tu morakkk, {bairro}")
 
 #feature -> feat
